@@ -19,7 +19,7 @@ function Footer() {
           </div>
           <div className="col-md-4">
             <h5 className="fw-bold">Contact Info</h5>
-            <p>Email: sales@noor-alamwaj.com<br />Phone: +971 543523325</p>
+            <p>Email: <a href="mailto:sales@nooralamwaj.com">sales@nooralamwaj.com</a><br />Phone: +971 543523325</p>
           </div>
         </div>
         <div className="text-center mt-3">
