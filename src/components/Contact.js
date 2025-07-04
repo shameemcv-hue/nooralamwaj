@@ -13,7 +13,8 @@ function Contact() {
               <p className="text-muted">
                 Noor Al Amwaj Freight Broker LLC<br />
                 Dubai, UAE<br />
-                Phone: +971 543523325<br />
+                Phone: +971 543523325
+                Phone: <a href="tel:+971543523325">+971 543523325</a><br />
                 Email: <a href="mailto:sales@nooralamwaj.com">sales@nooralamwaj.com</a>
               </p>
             </div>
