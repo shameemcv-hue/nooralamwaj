@@ -55,7 +55,7 @@ function Gallery() {
               <div className="text-start">
                 <h3 className="h5">Flatbeds & Side Grill Trailers</h3>
                 <p className="text-muted">
-                  When it comes to specialized commodities like heavy equipment and construction materials, Noor Al Amwaj has a flatbed division.
+                   When it comes to specialized commodities like heavy equipment and construction materials, Noor Al Amwaj has a flatbed division.
                 </p>
                 <br></br>
                 <br></br>
